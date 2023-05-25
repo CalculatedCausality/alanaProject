@@ -1,0 +1,5 @@
+{
+	"apple": { "price": 1, "aisle": 1, "inventory": 5 },
+	"banana": { "price": 2, "aisle": 1, "inventory": 5 },
+	"grape": { "price": 3, "aisle": 2, "inventory": 8 }
+}
